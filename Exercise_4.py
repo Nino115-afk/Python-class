@@ -11,4 +11,4 @@ def grade_student(name, score):
         print("Grade: D")
     else:
         print("Grade: F")
-grade_student("Sokha", 30)
+grade_student("Dara", 30)
