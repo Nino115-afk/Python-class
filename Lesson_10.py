@@ -1,0 +1,22 @@
+#dictionary
+datas=[
+    {
+        'id':1,
+        'name':"makara",
+        'gender':"male"
+    },
+    {
+        'id':2,
+        'name':"seyha",
+        'gender':"male"
+    },
+    {
+        'id':3,
+        'name':"thida",
+        'gender':"female"
+    }
+]
+for data in datas:
+    print(data['id'])
+    print(data['name'])
+    print(data['gender'])
